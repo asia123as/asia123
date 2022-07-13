@@ -1,0 +1,211 @@
+{
+    "ret": "0",
+    "statu_info": "succes",
+    "accountype": 3,
+    "sinfo": "",
+    "Live": [
+        {
+            "Category": "=未分组=",
+            "id": 1,
+            "name": "翡翠台",
+            "httpurl": "https://pull2.ssws.tv/live/a87ff679a2f3e71d9181a67b7542122c.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 2,
+            "name": "明珠",
+            "httpurl": "https://pull2.ssws.tv/live/e4da3b7fbbce2345d7772b0674a318d5.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 3,
+            "name": "星河",
+            "httpurl": "https://pull2.ssws.tv/live/1679091c5a880faf6fb5e6087eb1b2dc.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 4,
+            "name": "J2",
+            "httpurl": "https://pull2.ssws.tv/live/8f14e45fceea167a5a36dedd4bea2543.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 5,
+            "name": "亚洲旅游台",
+            "httpurl": "https://pull2.ssws.tv/live/a97da629b098b75c294dffdc3e463904.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 6,
+            "name": "TLC",
+            "httpurl": "https://pull2.ssws.tv/live/a3c65c2974270fd093ee8a9bf8ae7d0b.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 7,
+            "name": "HBO",
+            "httpurl": "https://pull2.ssws.tv/live/5f93f983524def3dca464469d2cf9f3e.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 8,
+            "name": "BBC",
+            "httpurl": "https://pull2.ssws.tv/live/698d51a19d8a121ce581499d7b701668.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 9,
+            "name": "HGTV",
+            "httpurl": "https://pull2.ssws.tv/live/7f6ffaa6bb0b408017b62254211691b5.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 10,
+            "name": "TVBS新闻台",
+            "httpurl": "https://pull2.ssws.tv/live/73278a4a86960eeb576a8fd4c9ec6997.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 11,
+            "name": "TVBS HD",
+            "httpurl": "https://pull2.ssws.tv/live/5fd0b37cd7dbbb00f97ba6ce92bf5add.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 12,
+            "name": "中视新闻",
+            "httpurl": "https://pull2.ssws.tv/live/c45147dee729311ef5b5c3003946c48f.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 13,
+            "name": "民视新闻",
+            "httpurl": "https://pull2.ssws.tv/live/eb160de1de89d9058fcb0b968dbbbd68.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 14,
+            "name": "东森LIVE",
+            "httpurl": "https://pull2.ssws.tv/live/5ef059938ba799aaa845e1c2e8a762bd.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 15,
+            "name": "东森财经",
+            "httpurl": "https://pull2.ssws.tv/live/07e1cd7dca89a1678042477183b7ac3f.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 16,
+            "name": "寰宇新闻",
+            "httpurl": "https://pull2.ssws.tv/live/da4fb5c6e93e74d3df8527599fa62642.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 17,
+            "name": "i新闻",
+            "httpurl": "https://pull2.ssws.tv/live/202cb962ac59075b964b07152d234b70.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 18,
+            "name": "镜新闻",
+            "httpurl": "https://pull2.ssws.tv/live/c8ffe9a587b126f152ed3d89a146b445.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 19,
+            "name": "华视新闻",
+            "httpurl": "https://pull2.ssws.tv/live/3def184ad8f4755ff269862ea77393dd.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        },
+        {
+            "Category": "=未分组=",
+            "id": 20,
+            "name": "非凡新闻",
+            "httpurl": "https://pull2.ssws.tv/live/069059b7ef840f0c74a814ec9237b6ec.flv",
+            "hotlink": "",
+            "logo": "",
+            "epg": "",
+            "enable": ""
+        }
+    ],
+    "Category": [
+        "=未分组="
+    ]
+}
