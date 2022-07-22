@@ -1,0 +1,28 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "凤凰资讯",
+            "num": "00001",
+            "urllist": "http://19x6f33139.iok.la:808/hls/1/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰中文",
+            "num": "00002",
+            "urllist": "http://19x6f33139.iok.la:808/hls/83/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "凤凰香港",
+            "num": "00003",
+            "urllist": "http://19x6f33139.iok.la:808/hls/333/index.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
