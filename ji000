@@ -1,16 +1,1 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_TW.xml" billed-msg="中國台灣中華電信"
 
-#EXTINF:-1 tvg-id="369159" tvg-url="中國網絡電影" tvg-logo="/storage/emulated/0/DCIM/香蕉.png" group-title="新",香蕉台
-http://s.mrw.so/94E7W
-#EXTINF:-1 tvg-id="369158" tvg-url="中國網絡電影" tvg-logo="/storage/emulated/0/DCIM/惊艳台.png" group-title="新",驚豔成人電影台
-http://suo.im/8odLv
-#EXTINF:-1 tvg-id="369164" tvg-url="中國網絡電影" tvg-logo="/storage/emulated/0/DCIM/潘朵啦高畫質粉紅台.png" group-title="新",潘朵啦高畫質粉紅台
-http://suo.im/6TuSG
-#EXTINF:-1 tvg-id="368935" tvg-url="中國網絡電影" tvg-logo="/storage/emulated/0/DCIM/彩虹.png" group-title="新",彩虹电影台
-http://suo.im/9sOLD
-#EXTINF:-1 tvg-id="368939" tvg-url="中國網絡電影" tvg-logo="/storage/emulated/0/DCIM/松視1台.png" group-title="新",松视1台
-http://suo.im/c4FP2
-#EXTINF:-1 tvg-id="368938" tvg-url="中國網絡電影" tvg-logo="/storage/emulated/0/DCIM/松視2台.png" group-title="新",松视2台
-http://b.mtw.so/6pAjsB
-#EXTINF:-1 tvg-id="369161" tvg-url="中國網絡電影" tvg-logo="/storage/emulated/0/DCIM/松視3台.png" group-title="新",松视3台
-http://suo.im/9wiS2
